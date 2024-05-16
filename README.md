@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnl3ZzliemV6azk3aXJza3Q5bWloaGJjZW9ha3F2OGF6dGhuaTZ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbtc9VG51NtzT1Qnv1/giphy.gif" width=100>
 </div>
 
-<div id="badges">
-  <a href="your-linkedin-URL">
+<div id="badges" align="center">
+  <a href="kedin.com/in/vaibhav-srivastva-1243462a3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -28,4 +28,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=makardvaj&style=flat-square&color=blue" alt=""/>
+<div id="visit-counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=makardvaj&style=flat-square&color=blue" alt="Profile visits counter."/>
+</div>
