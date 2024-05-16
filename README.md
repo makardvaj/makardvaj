@@ -13,4 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZrcWp3NHljZ2p1aWhwdGNyNmJxNGZsOG50Z3pxNWs5eHQzYmx4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width=100>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnl3ZzliemV6azk3aXJza3Q5bWloaGJjZW9ha3F2OGF6dGhuaTZ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbtc9VG51NtzT1Qnv1/giphy.gif" width=100>
+</div>
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
