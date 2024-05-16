@@ -10,3 +10,7 @@
 makardvaj/makardvaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZrcWp3NHljZ2p1aWhwdGNyNmJxNGZsOG50Z3pxNWs5eHQzYmx4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width=100>
+</div>
