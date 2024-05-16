@@ -31,7 +31,20 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczN1djdlcnBzYzcwanl1cjNkaWtsbDUyNXhra3plcTlsbHAyNXRidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" height=300 width=600 />
 </div>
 
+---
 
+### 👨‍💻 About me :—
+I am a Computer Science Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.
+
+- :telescope: I’m learning programming and CompSci, and aspire to become a full-stack developer.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles📰, read books📚, practice calligraphy, and shoot.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vaibhav-srivastva-1243462a3/)
+
+- 
 - 👋 Hi, I’m @makardvaj
 - 👀 I’m interested in opportunities for learning.
 - 🌱 I’m currently learning LaTeX.
