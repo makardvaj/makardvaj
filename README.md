@@ -21,12 +21,13 @@ You can click the Preview link to take a look at your changes.
 
 <div id="visit-counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=makardvaj&style=flat-square&color=blue" alt="Profile visits counter."/>
+  <h1>
+  Hey there!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 - 👋 Hi, I’m @makardvaj
 - 👀 I’m interested in opportunities for learning.
