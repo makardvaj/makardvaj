@@ -27,6 +27,9 @@ You can click the Preview link to take a look at your changes.
   </h1>
 </div>
 
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczN1djdlcnBzYzcwanl1cjNkaWtsbDUyNXhra3plcTlsbHAyNXRidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" height=300 width=600 />
+</div>
 
 
 - 👋 Hi, I’m @makardvaj
