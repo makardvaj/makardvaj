@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div id="badges" align="center">
-  <a href="kedin.com/in/vaibhav-srivastva-1243462a3/">
+  <a href="https://www.linkedin.com/in/vaibhav-srivastva-1243462a3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
