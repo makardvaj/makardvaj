@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @makardvaj
-- 👀 I’m interested in opportunities for learning.
-- 🌱 I’m currently learning LaTeX.
-- 💞️ I’m looking to collaborate on Python3, LaTeX, C.
-- 📫 How to reach me : [redacted].
-- 😄 Pronouns: words used in place of nouns, to make text easier to read.
-- ⚡ Fun fact: There are no atheists in a foxhole.
-
 <!---
 makardvaj/makardvaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -31,6 +23,15 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=makardvaj&style=flat-square&color=blue" alt="Profile visits counter."/>
 </div>
 
-<div id ="hello" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnl3ZzliemV6azk3aXJza3Q5bWloaGJjZW9ha3F2OGF6dGhuaTZ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbtc9VG51NtzT1Qnv1/giphy.gif" width=80px>
-</div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+- 👋 Hi, I’m @makardvaj
+- 👀 I’m interested in opportunities for learning.
+- 🌱 I’m currently learning LaTeX.
+- 💞️ I’m looking to collaborate on Python3, LaTeX, C.
+- 📫 How to reach me : [redacted].
+- 😄 Pronouns: words used in place of nouns, to make text easier to read.
+- ⚡ Fun fact: There are no atheists in a foxhole.
