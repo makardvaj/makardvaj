@@ -62,7 +62,6 @@ I am a Computer Science Engineering student <img src="https://media.giphy.com/me
 - 👋 Hi, I’m @makardvaj
 - 👀 I’m interested in opportunities for learning.
 - 🌱 I’m currently learning LaTeX.
-- 💞️ I’m looking to collaborate on Python3, LaTeX, C.
-- 📫 How to reach me : [redacted].
-- 😄 Pronouns: words used in place of nouns, to make text easier to read.
+- 💞️ I’m looking to collaborate on Python3, LaTeX, C, HTML, & JavaScript.
+- 📫 How to reach me : please send a DM.
 - ⚡ Fun fact: There are no atheists in a foxhole.
